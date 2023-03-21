@@ -47,6 +47,23 @@ class HomeScreen extends StatelessWidget {
                 onTap: () {
                   Navigator.pushNamed(context, 'home_screen');
                 }),
+            //caretaker
+            ListTile(
+                leading: const Icon(
+                  Icons.person_2_rounded,
+                  color: Color.fromARGB(255, 58, 57, 57),
+                  size: 30,
+                ),
+                title: const Text(
+                  'Book Caretaker',
+                  style: TextStyle(
+                      color: Color.fromARGB(255, 35, 34, 34),
+                      fontSize: 20,
+                      fontWeight: FontWeight.w600),
+                ),
+                onTap: () {
+                  Navigator.pushNamed(context, 'care_taker');
+                }),
           ],
         ),
       ),

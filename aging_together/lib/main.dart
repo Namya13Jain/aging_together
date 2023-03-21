@@ -1,4 +1,7 @@
 import 'package:aging_together/screens/caretaker_feature/caretaker.dart';
+import 'package:aging_together/screens/caretaker_feature/question.dart';
+import 'package:aging_together/screens/caretaker_feature/quiz.dart';
+import 'package:aging_together/screens/caretaker_feature/self_test.dart';
 import 'package:aging_together/screens/home_screen.dart';
 import 'package:aging_together/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
@@ -23,6 +26,7 @@ class MyApp extends StatelessWidget {
         'splash_screen': (context) => const SplashScreen(),
         'home_screen': (context) => const HomeScreen(),
         'care_taker': (context) => const CaretakerBooking(),
+        'questions': (context) => SelfTest(),
       },
     );
   }

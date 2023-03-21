@@ -23,6 +23,15 @@ class _CaretakerBookingState extends State<CaretakerBooking> {
             fontSize: 20,
           ),
         ),
+        leading: GestureDetector(
+          onTap: () {
+            Navigator.pushNamed(context, 'home_screen');
+          },
+          child: Icon(
+            Icons.arrow_back_ios_new_rounded,
+            color: Colors.white,
+          ),
+        ),
       ),
       body: Column(
         children: [
@@ -52,20 +61,30 @@ class _CaretakerBookingState extends State<CaretakerBooking> {
           SizedBox(
             height: getProportionateScreenHeight(30),
           ),
-          Container(
-            height: getProportionateScreenHeight(50),
-            width: getProportionateScreenWidth(200),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(10),
-              color: const Color.fromRGBO(8, 143, 143, 1),
-            ),
-            child: const Center(
-              child: Text(
-                "Continue",
-                style: TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.w600,
-                    color: Colors.white),
+          GestureDetector(
+            onTap: () {
+              Navigator.pushNamed(context, 'questions');
+            },
+            child: Container(
+              height: getProportionateScreenHeight(50),
+              width: getProportionateScreenWidth(200),
+              decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(10),
+                  color: const Color.fromRGBO(8, 143, 143, 1),
+                  boxShadow: const [
+                    BoxShadow(
+                      color: Color.fromARGB(255, 19, 194, 194),
+                      blurRadius: 5,
+                    ),
+                  ]),
+              child: const Center(
+                child: Text(
+                  "Continue",
+                  style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.white),
+                ),
               ),
             ),
           ),
