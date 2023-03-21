@@ -27,6 +27,10 @@ class MyApp extends StatelessWidget {
         'home_screen': (context) => const HomeScreen(),
         'care_taker': (context) => const CaretakerBooking(),
         'questions': (context) => SelfTest(),
+        //'about_us'
+        // 'reminders'
+        //'learn'
+        //'companion'
       },
     );
   }

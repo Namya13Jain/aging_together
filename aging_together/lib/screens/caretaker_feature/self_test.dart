@@ -1,3 +1,4 @@
+import 'package:aging_together/screens/caretaker_feature/size_configs.dart';
 import 'package:flutter/material.dart';
 
 import 'quiz.dart';
@@ -65,27 +66,46 @@ class _SelfTestState extends State<SelfTest> {
 
   @override
   Widget build(BuildContext context) {
+    SizeConfig().init(context);
     return Scaffold(
-      appBar: AppBar(
-        centerTitle: true,
-        elevation: 0.8,
-        title: const Text(
-          'Book Caretaker',
-          style: TextStyle(
-            fontSize: 20,
-          ),
-        ),
-        backgroundColor: const Color.fromRGBO(8, 143, 143, 1),
-      ),
-      body: _questionIndex < _questions.length
-          ? Quiz(
-              answerQuestion: _answerQuestionDepression,
-              questionIndex: _questionIndex,
-              questions: _questions,
-            )
-          : Result(
-              _totalScoreDepression,
+        appBar: AppBar(
+          centerTitle: true,
+          elevation: 5,
+          title: const Text(
+            'Book Caretaker',
+            style: TextStyle(
+              fontSize: 20,
             ),
-    );
+          ),
+          leading: GestureDetector(
+              onTap: () {
+                Navigator.pushNamed(context, 'care_taker');
+              },
+              child: Icon(
+                Icons.arrow_back_ios_new_rounded,
+                color: Colors.white,
+                size: 20,
+              )),
+          backgroundColor: const Color.fromRGBO(8, 143, 143, 1),
+        ),
+        body: Column(
+          children: [
+            _questionIndex < _questions.length
+                ? Quiz(
+                    answerQuestion: _answerQuestionDepression,
+                    questionIndex: _questionIndex,
+                    questions: _questions,
+                  )
+                : Result(
+                    _totalScoreDepression,
+                  ),
+            Container(
+              width: getProportionateScreenWidth(20),
+              height: getProportionateScreenHeight(60),
+              padding: const EdgeInsets.fromLTRB(10, 10, 10, 10),
+              margin: const EdgeInsets.fromLTRB(10, 1, 10, 1),
+            ),
+          ],
+        ));
   }
 }
