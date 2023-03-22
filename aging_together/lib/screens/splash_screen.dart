@@ -1,5 +1,6 @@
 import 'package:aging_together/screens/caretaker_feature/caretaker.dart';
 import 'package:aging_together/screens/home_screen.dart';
+import 'package:aging_together/screens/signin_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:page_transition/page_transition.dart';
@@ -14,7 +15,7 @@ class SplashScreen extends StatelessWidget {
       centered: true,
       splash: 'assets/images/logo_at.png',
       splashIconSize: 400,
-      nextScreen: const HomeScreen(),
+      nextScreen: const SignInScreen(),
       splashTransition: SplashTransition.sizeTransition,
       pageTransitionType: PageTransitionType.bottomToTop,
     );

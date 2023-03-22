@@ -102,7 +102,7 @@ class AboutUs extends StatelessWidget {
                   style: drawerText,
                 ),
                 onTap: () {
-                  Navigator.pushNamed(context, 'companion');
+                  Navigator.pushNamed(context, 'start');
                 }),
             // Medical Reminders
             ListTile(
@@ -131,7 +131,7 @@ class AboutUs extends StatelessWidget {
                   style: drawerText,
                 ),
                 onTap: () {
-                  Navigator.pushNamed(context, 'companion');
+                  Navigator.pushNamed(context, 'learn');
                 }),
             //About us
             ListTile(
@@ -145,7 +145,7 @@ class AboutUs extends StatelessWidget {
                   style: drawerText,
                 ),
                 onTap: () {
-                  Navigator.pushNamed(context, 'companion');
+                  Navigator.pushNamed(context, 'about_us');
                 }),
           ],
         ),

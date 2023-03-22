@@ -97,7 +97,7 @@ class HomeScreen extends StatelessWidget {
                   style: drawerText,
                 ),
                 onTap: () {
-                  Navigator.pushNamed(context, 'companion');
+                  Navigator.pushNamed(context, 'start');
                 }),
 
             // Medical Reminders
@@ -290,7 +290,9 @@ class HomeScreen extends StatelessWidget {
 
                 GestureDetector(
                   //add companions page
-                  onTap: () {},
+                  onTap: () {
+                    Navigator.pushNamed(context, 'start');
+                  },
                   child: Container(
                     height: 150,
                     width: 300,
@@ -385,7 +387,9 @@ class HomeScreen extends StatelessWidget {
 
                 GestureDetector(
                   //add learning page
-                  onTap: () {},
+                  onTap: () {
+                    Navigator.pushNamed(context, 'learn');
+                  },
                   child: Container(
                     height: 170,
                     width: 300,

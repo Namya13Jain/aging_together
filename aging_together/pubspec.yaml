@@ -39,7 +39,9 @@ dependencies:
   page_transition: 
   unicons: ^2.1.1
   carousel_slider:
-  
+  firebase_auth: ^4.2.8
+  firebase_core: ^2.6.1
+  cloud_firestore: ^4.4.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
