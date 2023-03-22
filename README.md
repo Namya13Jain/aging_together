@@ -1,5 +1,5 @@
 # Team Details
-Team Name: Aqua
+Team Name: Team Aqua
 
 Team Members: 
 1. Astha Singh
