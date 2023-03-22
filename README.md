@@ -51,7 +51,15 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
-Figma Prototype of the students mentoring the old buddies: https://www.figma.com/file/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=0%3A1&t=Rm7lAcnhChP0ykeZ-1
+Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
+![Screenshot_1679509726](https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png)
+
+<img src =  "https://user-images.githubusercontent.com/100767035/227001202-0930d59c-7971-4612-b9d8-3d440fcd8b7f.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227001404-73ea8341-e0ab-41b0-9e68-8ffb793180c5.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227001462-ac212770-8bd4-44b3-8090-1c6df5d0dc80.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227001487-b05d83d4-7437-4644-ae22-2619f8a75769.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227001508-87f9d743-00cc-4ee5-bba9-65a92692d6f5.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227001524-b303b966-78bd-4efa-8f01-0a3d10429504.png" width = "200" height = "400" >
 
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
