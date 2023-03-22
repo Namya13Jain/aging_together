@@ -20,6 +20,13 @@ Aging Together is an all-in-one solution for seniors looking for companionship, 
 4. Our app also gives medication reminders that allows immediate family members to record and schedule personalized voice messages. It sends a notification back to the family members when the medicine has been taken.
 5. We also offer the option for the immediate family members to track the location of their loved ones suffering from Alzeimers disease and dementia, through just their phones.
 
+#  Why Aging Together
+Yes, there are existing solutions like Aging Together that address the problem of loneliness and lack of support for seniors. However, Aging Together is unique in several ways.
+The app provides a comprehensive range of services that cater to the emotional and social needs of seniors, from finding companions to hiring caretakers and accessing mentorship programs. This holistic approach is not offered by many existing solutions.
+Aging Together is designed with user-friendliness in mind, with an intuitive interface and seamless user experience that caters to the needs of seniors who may not be tech-savvy. The app is also easy to navigate and offers features such as voice assistance and large text size to make it accessible to all.
+The potential use of AI to detect mood and suggest companions based on facial expressions is a unique feature that sets Aging Together apart from other existing solutions. This innovative use of technology enables the app to deliver personalized and adaptive services to seniors, ensuring that their needs are met in a timely and responsive manner.
+Overall, Aging Together is a unique and innovative solution that offers a comprehensive range of services and is designed to meet the needs of seniors in a user-friendly and accessible way. The app's potential use of AI also sets it apart from other existing solutions in the market
+
 # Unique Selling Proposition (USP)
 Aging Together's unique selling proposition (USP) is its ability to bridge the gap between generations, providing seniors with the support and companionship they need to maintain their independence and quality of life. Unlike other senior care apps that focus solely on medical or home care, Aging Together offers a comprehensive range of services that cater to the emotional and social needs of seniors.
 
@@ -33,6 +40,16 @@ Firebase, a comprehensive mobile and web application development platform, is us
 In addition to Firebase, the app also integrates with several APIs, including the geolocator package, to provide accurate location-based services to users. This enables the app to offer personalized recommendations for companions and caretakers based on the user's location, making it easier for seniors to find the right match.
 
 Overall, the use of these technologies has enabled Aging Together to deliver a robust and reliable solution for seniors, helping them find the support and companionship they need.
+
+# Glimpses of Aging Together
+<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992111-6574eca0-7b22-428a-b9eb-c62f16600b15.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
@@ -55,10 +72,4 @@ In addition to AI, the app could also expand its mentorship program to include p
 Old buddies may not be as comfortable in English language. So to ease out the navigation through our app, we have thought of providing multi-language support like in Hindi.
 
 Overall, the future scope for Aging Together is exciting, with the potential to further revolutionize the way we think about senior care and support. As technology continues to evolve, the app will undoubtedly continue to innovate and adapt, providing seniors with even more personalized and responsive services.
-
-
-
-
-
-
 
