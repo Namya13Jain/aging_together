@@ -52,6 +52,7 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
 Figma File of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
+
 Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
 
 <img src =  "https://user-images.githubusercontent.com/100767035/227001202-0930d59c-7971-4612-b9d8-3d440fcd8b7f.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001404-73ea8341-e0ab-41b0-9e68-8ffb793180c5.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001462-ac212770-8bd4-44b3-8090-1c6df5d0dc80.png" width = "200" height = "400" >
