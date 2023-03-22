@@ -16,7 +16,7 @@ In India, the share of elderly people is more than 10% of the population, and am
 Aging Together is an all-in-one solution for seniors looking for companionship, care, and support. With its easy-to-use interface and wide range of features, Aging Together is the perfect app for anyone looking to improve their quality of life and make meaningful connections. It is an innovative and user-friendly app designed to bridge the gap between the elderly and the younger generation. 
 
 1. Aging Together offers a wide range of services, including the ability to find a companion who can provide social interaction and emotional support. Whether you're looking for someone to chat with or someone to accompany you on walks, our app makes it easy to find the perfect match.
-2. Our app also provides access to caretakers on a rental basis, who can step in and provide the kind of care and attention that family members would normally offer. Whether it's help with day-to-day activities like grocery shopping or assistance with medical appointments, Aging Together is there to provide support.
+2. Our app also provides access to caretakers on a rental basis, who can step in and provide the kind of care and attention that family members would normally offer. Whether it's help with day-to-day activities like grocery shopping or assistance with medical appointments, Aging Together is there to provide support. We plan on collaborating with companies like Nightingales and Care24, which will be providing us with 100% verified and trained nurses and caregivers for our seniors.
 3. Aging Together also offers a unique mentorship program, connecting seniors with college students who can provide guidance and support as they learn new skills. College students can earn certificates of social internships, which will help them stand out when applying for jobs.
 4. Our app also gives medication reminders that allows immediate family members to record and schedule personalized voice messages. It sends a notification back to the family members when the medicine has been taken.
 5. We also offer the option for the immediate family members to track the location of their loved ones suffering from Alzeimers disease and dementia, through just their phones.
@@ -51,6 +51,7 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
+Figma File of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
 Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
 
 <img src =  "https://user-images.githubusercontent.com/100767035/227001202-0930d59c-7971-4612-b9d8-3d440fcd8b7f.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001404-73ea8341-e0ab-41b0-9e68-8ffb793180c5.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001462-ac212770-8bd4-44b3-8090-1c6df5d0dc80.png" width = "200" height = "400" >
@@ -77,7 +78,8 @@ For example, in the future, the app could use facial recognition technology to d
 In addition to AI, the app could also expand its mentorship program to include professionals from various fields. This would provide seniors with a broader range of expertise and opportunities for learning, enabling them to stay engaged and up-to-date on the latest trends and developments in their areas of interest. Even group sessions in offline mode would be incorporated to help help the seniors learn with their friends.
 
 3. Multi-language support
-Old buddies may not be as comfortable in English language. So to ease out the navigation through our app, we have thought of providing multi-language support like in Hindi.
+Some of our old buddies may not be as comfortable communicating in the English language. So to ease out the navigation through our app, we will be providing multi-language support in various languages such as Hindi, Bengali and Marathi.
+
 
 Overall, the future scope for Aging Together is exciting, with the potential to further revolutionize the way we think about senior care and support. As technology continues to evolve, the app will undoubtedly continue to innovate and adapt, providing seniors with even more personalized and responsive services.
 
