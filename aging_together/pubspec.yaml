@@ -38,6 +38,7 @@ dependencies:
   animated_splash_screen: 
   page_transition: 
   unicons: ^2.1.1
+  carousel_slider:
   
 dev_dependencies:
   flutter_test:

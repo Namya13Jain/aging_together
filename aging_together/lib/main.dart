@@ -1,3 +1,4 @@
+import 'package:aging_together/screens/about.dart';
 import 'package:aging_together/screens/caretaker_feature/caretaker.dart';
 import 'package:aging_together/screens/caretaker_feature/question.dart';
 import 'package:aging_together/screens/caretaker_feature/quiz.dart';
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         'home_screen': (context) => const HomeScreen(),
         'care_taker': (context) => const CaretakerBooking(),
         'questions': (context) => SelfTest(),
-        //'about_us'
+        'about_us': (context) => const AboutUs(),
         // 'reminders'
         //'learn'
         //'companion'
