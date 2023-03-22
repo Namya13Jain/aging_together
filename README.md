@@ -6,12 +6,12 @@ Team Members:
 3. Nikita Bhutani
 4. Riya Agarwal
 
-#Problem Statement
+# Problem Statement
 In India, the share of elderly people is more than 10% of the population, and among them also one out of every four elder person is lonely. This is due to the erosion of our traditional values to stay with our old parents. Their children leave them to succeed in their lives, forgetting that their parents need their love, care and support. Due to these reasons, a lot of them suffer from depression and related disorders. Here are some news reports as well:
 https://timesofindia.indiatimes.com/home/science/no-company-for-old-men-survey-finds-one-fourth-of-elderly-population-living-alone/articleshow/64918809.cms
 https://www.drishtiias.com/daily-updates/daily-news-editorials/ageing-in-india-state-of-the-elderly
 
-#Our Solution - Aging Together 
+# Our Solution - Aging Together 
 Aging Together is an all-in-one solution for seniors looking for companionship, care, and support. With its easy-to-use interface and wide range of features, Aging Together is the perfect app for anyone looking to improve their quality of life and make meaningful connections. It is an innovative and user-friendly app designed to bridge the gap between the elderly and the younger generation. 
 
 1. Aging Together offers a wide range of services, including the ability to find a companion who can provide social interaction and emotional support. Whether you're looking for someone to chat with or someone to accompany you on walks, our app makes it easy to find the perfect match.
@@ -26,7 +26,7 @@ Aging Together's unique selling proposition (USP) is its ability to bridge the g
 Mentorship Program:
 One of the key features that sets Aging Together apart is its ability to connect seniors with college students through its mentorship program. This innovative approach not only provides seniors with the opportunity to learn new skills and stay engaged but also gives college students a chance to gain valuable social internship experience, making it a win-win for both parties. Additionally, Aging Together's easy-to-use interface and personalized matching algorithms ensure that seniors can quickly and easily find the support they need. Whether it's a companion to share hobbies with, a caretaker to assist with day-to-day tasks, or a mentor to learn from, Aging Together's comprehensive services make it the go-to app for seniors looking to stay connected and engaged.
 
-#Techstacks used
+# Techstacks used
 Aging Together is built using cutting-edge technologies to ensure a seamless user experience. The app is developed using Flutter, a popular open-source framework for building high-performance, cross-platform mobile applications. Flutter's rich set of widgets and development tools enabled the team to create a beautiful and responsive UI for the app.
 
 Firebase, a comprehensive mobile and web application development platform, is used to power the app's backend. Firebase's real-time database and cloud storage capabilities enable the app to deliver fast and reliable performance, ensuring that users can quickly access the services they need.
@@ -34,7 +34,7 @@ In addition to Firebase, the app also integrates with several APIs, including th
 
 Overall, the use of these technologies has enabled Aging Together to deliver a robust and reliable solution for seniors, helping them find the support and companionship they need.
 
-#Marketing Strategy
+# Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
 2. Partnerships with senior living communities: Partner with senior living communities and assisted living facilities to offer the app as a value-added service for their residents. This can help promote the app to a captive audience who are already interested in services that support senior care and wellbeing.
 3. Local outreach: Conduct outreach programs in local communities and senior centers to promote the app and its features. This can include informational sessions, workshops, and social events that highlight the app's features and benefits.
@@ -43,7 +43,7 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 
 Overall, these strategies can help promote Aging Together to the target audience and raise awareness of the app's unique features and benefits. By leveraging a combination of targeted advertising, local outreach, referral programs, and influencer marketing, the app can reach a wide audience and establish itself as a leading provider of senior care services.
 
-#Future Scope
+# Future Scope
 1. Personalized matching through AI
 The future scope for Aging Together is vast, with the potential to further enhance the app's features and capabilities to better serve seniors. One exciting area of potential development is the integration of AI technologies to provide even more personalized and adaptive services to users.
 For example, in the future, the app could use facial recognition technology to detect the mood of the elderly person and suggest companions or activities accordingly. This would enable the app to provide a more tailored and responsive experience, ensuring that seniors always have the support and companionship they need, even if they are unable to express their emotions directly.
