@@ -242,7 +242,9 @@ class HomeScreen extends StatelessWidget {
                 //1st card
                 GestureDetector(
                   //add reminders page
-                  onTap: () {},
+                  onTap: () {
+                    Navigator.pushNamed(context, 'reminders');
+                  },
                   child: Container(
                     height: 150,
                     width: 300,

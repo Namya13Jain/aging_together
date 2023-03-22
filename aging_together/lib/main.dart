@@ -4,6 +4,7 @@ import 'package:aging_together/screens/caretaker_feature/question.dart';
 import 'package:aging_together/screens/caretaker_feature/quiz.dart';
 import 'package:aging_together/screens/caretaker_feature/self_test.dart';
 import 'package:aging_together/screens/home_screen.dart';
+import 'package:aging_together/screens/reminders.dart';
 import 'package:aging_together/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -29,7 +30,7 @@ class MyApp extends StatelessWidget {
         'care_taker': (context) => const CaretakerBooking(),
         'questions': (context) => SelfTest(),
         'about_us': (context) => const AboutUs(),
-        // 'reminders'
+        'reminders': (context) => const RemindersPage(),
         //'learn'
         //'companion'
       },
