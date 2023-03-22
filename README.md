@@ -50,13 +50,10 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 <img src =  "" width = "200" height = "400" > 
-<img src =  "" width = "200" height = "400" > 
-Figma File of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
-
-
 
 Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
 
@@ -65,7 +62,7 @@ Figma Prototype of the students mentoring the old buddies: https://www.figma.com
 <img src =  "https://user-images.githubusercontent.com/100767035/227003530-e2f6145f-4095-4c74-b400-31d93a188fa5.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001508-87f9d743-00cc-4ee5-bba9-65a92692d6f5.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001524-b303b966-78bd-4efa-8f01-0a3d10429504.png" width = "200" height = "400" >
-                                                                                                                                                 
+<img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" >                                                                                                                                                
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
 2. Partnerships with senior living communities: Partner with senior living communities and assisted living facilities to offer the app as a value-added service for their residents. This can help promote the app to a captive audience who are already interested in services that support senior care and wellbeing.
