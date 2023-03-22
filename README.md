@@ -8,8 +8,8 @@ Team Members:
 
 # Problem Statement
 In India, the share of elderly people is more than 10% of the population, and among them also one out of every four elder person is lonely. This is due to the erosion of our traditional values to stay with our old parents. Their children leave them to succeed in their lives, forgetting that their parents need their love, care and support. Due to these reasons, a lot of them suffer from depression and related disorders. Here are some news reports as well:
-https://timesofindia.indiatimes.com/home/science/no-company-for-old-men-survey-finds-one-fourth-of-elderly-population-living-alone/articleshow/64918809.cms
-https://www.drishtiias.com/daily-updates/daily-news-editorials/ageing-in-india-state-of-the-elderly
+1. https://timesofindia.indiatimes.com/home/science/no-company-for-old-men-survey-finds-one-fourth-of-elderly-population-living-alone/articleshow/64918809.cms
+2. https://www.drishtiias.com/daily-updates/daily-news-editorials/ageing-in-india-state-of-the-elderly
 
 # Our Solution - Aging Together 
 Aging Together is an all-in-one solution for seniors looking for companionship, care, and support. With its easy-to-use interface and wide range of features, Aging Together is the perfect app for anyone looking to improve their quality of life and make meaningful connections. It is an innovative and user-friendly app designed to bridge the gap between the elderly and the younger generation. 
