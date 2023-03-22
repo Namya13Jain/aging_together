@@ -51,6 +51,8 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
+Figma Prototype of the students mentoring the old buddies: https://www.figma.com/file/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=0%3A1&t=Rm7lAcnhChP0ykeZ-1
+
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
 2. Partnerships with senior living communities: Partner with senior living communities and assisted living facilities to offer the app as a value-added service for their residents. This can help promote the app to a captive audience who are already interested in services that support senior care and wellbeing.
