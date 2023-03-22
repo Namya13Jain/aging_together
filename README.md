@@ -55,9 +55,10 @@ Figma Prototype of the students mentoring the old buddies: https://www.figma.com
 
 <img src =  "https://user-images.githubusercontent.com/100767035/227001202-0930d59c-7971-4612-b9d8-3d440fcd8b7f.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001404-73ea8341-e0ab-41b0-9e68-8ffb793180c5.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001462-ac212770-8bd4-44b3-8090-1c6df5d0dc80.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001487-b05d83d4-7437-4644-ae22-2619f8a75769.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227003530-e2f6145f-4095-4c74-b400-31d93a188fa5.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001508-87f9d743-00cc-4ee5-bba9-65a92692d6f5.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001524-b303b966-78bd-4efa-8f01-0a3d10429504.png" width = "200" height = "400" >
-
+                                                                                                                                                 
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
 2. Partnerships with senior living communities: Partner with senior living communities and assisted living facilities to offer the app as a value-added service for their residents. This can help promote the app to a captive audience who are already interested in services that support senior care and wellbeing.
