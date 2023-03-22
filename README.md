@@ -44,7 +44,7 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 
 # Glimpses of Aging Together
 <img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/226992111-6574eca0-7b22-428a-b9eb-c62f16600b15.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
@@ -52,7 +52,6 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
 Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
-![Screenshot_1679509726](https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png)
 
 <img src =  "https://user-images.githubusercontent.com/100767035/227001202-0930d59c-7971-4612-b9d8-3d440fcd8b7f.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001404-73ea8341-e0ab-41b0-9e68-8ffb793180c5.png" width = "200" height = "400" >
