@@ -52,9 +52,11 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227035092-94b4834e-6a18-4234-8dca-9ef177dccf38.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227094607-a71cf791-1f19-4315-ab91-0f13f3ac1721.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227094623-612c7c8c-a0c2-491b-b8e3-6cd23022dcad.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227094637-f94b80c0-8aa8-400a-a1a3-e6ce22d4395b.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
-
 
 Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
 
