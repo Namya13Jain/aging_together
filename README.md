@@ -52,7 +52,6 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/227094870-430414df-4dc5-47c0-92d0-3fc3ae7e444b.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/227035092-94b4834e-6a18-4234-8dca-9ef177dccf38.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227094607-a71cf791-1f19-4315-ab91-0f13f3ac1721.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227094623-612c7c8c-a0c2-491b-b8e3-6cd23022dcad.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227094637-f94b80c0-8aa8-400a-a1a3-e6ce22d4395b.png" width = "200" height = "400" > 
