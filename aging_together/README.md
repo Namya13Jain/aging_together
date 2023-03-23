@@ -16,7 +16,7 @@ In India, the share of elderly people is more than 10% of the population, and am
 Aging Together is an all-in-one solution for seniors looking for companionship, care, and support. With its easy-to-use interface and wide range of features, Aging Together is the perfect app for anyone looking to improve their quality of life and make meaningful connections. It is an innovative and user-friendly app designed to bridge the gap between the elderly and the younger generation. 
 
 1. Aging Together offers a wide range of services, including the ability to find a companion who can provide social interaction and emotional support. Whether you're looking for someone to chat with or someone to accompany you on walks, our app makes it easy to find the perfect match.
-2. Our app also provides access to caretakers on a rental basis, who can step in and provide the kind of care and attention that family members would normally offer. Whether it's help with day-to-day activities like grocery shopping or assistance with medical appointments, Aging Together is there to provide support.
+2. Our app also provides access to caretakers on a rental basis, who can step in and provide the kind of care and attention that family members would normally offer. Whether it's help with day-to-day activities like grocery shopping or assistance with medical appointments, Aging Together is there to provide support. We plan on collaborating with companies like Nightingales and Care24, which will be providing us with 100% verified and trained nurses and caregivers for our seniors.
 3. Aging Together also offers a unique mentorship program, connecting seniors with college students who can provide guidance and support as they learn new skills. College students can earn certificates of social internships, which will help them stand out when applying for jobs.
 4. Our app also gives medication reminders that allows immediate family members to record and schedule personalized voice messages. It sends a notification back to the family members when the medicine has been taken.
 5. We also offer the option for the immediate family members to track the location of their loved ones suffering from Alzeimers disease and dementia, through just their phones.
@@ -43,11 +43,19 @@ In addition to Firebase, the app also integrates with several APIs, including th
 Overall, the use of these technologies has enabled Aging Together to deliver a robust and reliable solution for seniors, helping them find the support and companionship they need.
 
 # Glimpses of Aging Together
-<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227031299-15aa315e-663f-45ed-8ce3-73739fdaff49.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227031334-9b7bcb13-5f4c-4d2f-a35e-81db83698382.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227094870-430414df-4dc5-47c0-92d0-3fc3ae7e444b.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227095242-51dde96e-8606-4647-b7e7-c21977949c47.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227094607-a71cf791-1f19-4315-ab91-0f13f3ac1721.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227094623-612c7c8c-a0c2-491b-b8e3-6cd23022dcad.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227094637-f94b80c0-8aa8-400a-a1a3-e6ce22d4395b.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 
@@ -58,7 +66,7 @@ Figma Prototype of the students mentoring the old buddies: https://www.figma.com
 <img src =  "https://user-images.githubusercontent.com/100767035/227003530-e2f6145f-4095-4c74-b400-31d93a188fa5.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001508-87f9d743-00cc-4ee5-bba9-65a92692d6f5.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227001524-b303b966-78bd-4efa-8f01-0a3d10429504.png" width = "200" height = "400" >
-                                                                                                                                                 
+<img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" >                                                                                                                                                
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
 2. Partnerships with senior living communities: Partner with senior living communities and assisted living facilities to offer the app as a value-added service for their residents. This can help promote the app to a captive audience who are already interested in services that support senior care and wellbeing.
@@ -77,7 +85,8 @@ For example, in the future, the app could use facial recognition technology to d
 In addition to AI, the app could also expand its mentorship program to include professionals from various fields. This would provide seniors with a broader range of expertise and opportunities for learning, enabling them to stay engaged and up-to-date on the latest trends and developments in their areas of interest. Even group sessions in offline mode would be incorporated to help help the seniors learn with their friends.
 
 3. Multi-language support
-Old buddies may not be as comfortable in English language. So to ease out the navigation through our app, we have thought of providing multi-language support like in Hindi.
+Some of our old buddies may not be as comfortable communicating in the English language. So to ease out the navigation through our app, we will be providing multi-language support in various languages such as Hindi, Bengali and Marathi.
+
 
 Overall, the future scope for Aging Together is exciting, with the potential to further revolutionize the way we think about senior care and support. As technology continues to evolve, the app will undoubtedly continue to innovate and adapt, providing seniors with even more personalized and responsive services.
 
