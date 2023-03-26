@@ -45,28 +45,24 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 # Glimpses of Aging Together
 <img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227031299-15aa315e-663f-45ed-8ce3-73739fdaff49.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227031334-9b7bcb13-5f4c-4d2f-a35e-81db83698382.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755682-274be9a4-f45e-4c70-8d2d-50a5e1073416.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/227094870-430414df-4dc5-47c0-92d0-3fc3ae7e444b.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" >  
 <img src =  "https://user-images.githubusercontent.com/100767035/227095242-51dde96e-8606-4647-b7e7-c21977949c47.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227094607-a71cf791-1f19-4315-ab91-0f13f3ac1721.png" width = "200" height = "400" >
-<img src =  "https://user-images.githubusercontent.com/100767035/227094623-612c7c8c-a0c2-491b-b8e3-6cd23022dcad.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/227094637-f94b80c0-8aa8-400a-a1a3-e6ce22d4395b.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755978-0cc1897b-0a31-46af-98c2-428ddc4982a0.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755987-c0dcd3c7-56b6-47fd-95a2-323a545d3899.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755688-fdfb4ff1-ac61-48d5-a5c3-682e08b35a1e.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755734-2782e4f5-b1d8-4f98-a3bc-df212db79fcb.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227755701-e8a8a9ec-5b47-4d78-98ba-ddf6b68c0fa8.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227755810-b6a2d7a0-d9fd-454e-94db-737aa372d47a.png" width = "200" height = "400" >
 
-Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
-
-<img src =  "https://user-images.githubusercontent.com/100767035/227001202-0930d59c-7971-4612-b9d8-3d440fcd8b7f.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001404-73ea8341-e0ab-41b0-9e68-8ffb793180c5.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227001462-ac212770-8bd4-44b3-8090-1c6df5d0dc80.png" width = "200" height = "400" >
-<img src =  "https://user-images.githubusercontent.com/100767035/227001487-b05d83d4-7437-4644-ae22-2619f8a75769.png" width = "200" height = "400" >
-<img src =  "https://user-images.githubusercontent.com/100767035/227003530-e2f6145f-4095-4c74-b400-31d93a188fa5.png" width = "200" height = "400" >
-<img src =  "https://user-images.githubusercontent.com/100767035/227001508-87f9d743-00cc-4ee5-bba9-65a92692d6f5.png" width = "200" height = "400" >
-<img src =  "https://user-images.githubusercontent.com/100767035/227001524-b303b966-78bd-4efa-8f01-0a3d10429504.png" width = "200" height = "400" >
-<img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" >                                                                                                                                                
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
 2. Partnerships with senior living communities: Partner with senior living communities and assisted living facilities to offer the app as a value-added service for their residents. This can help promote the app to a captive audience who are already interested in services that support senior care and wellbeing.
