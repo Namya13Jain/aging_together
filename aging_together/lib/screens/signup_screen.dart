@@ -1,3 +1,4 @@
+import 'package:aging_together/screens/select_role.dart';
 import 'package:aging_together/screens/size_configs.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -79,10 +80,8 @@ class _SignUpScreenState extends State<SignUpScreen> {
                           password: _passwordTextController.text)
                       .then((value) {
                     print("Created New Account");
-                    Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: (ctx) => const HomeScreen()));
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (ctx) => const Roles()));
                   }).onError((error, stackTrace) {
                     print("Error ${error.toString()}");
                   });

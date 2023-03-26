@@ -7,8 +7,11 @@ import 'package:aging_together/screens/companion/start.dart';
 import 'package:aging_together/screens/home_screen.dart';
 import 'package:aging_together/screens/learn.dart';
 import 'package:aging_together/screens/reminders.dart';
+import 'package:aging_together/screens/select_role.dart';
 import 'package:aging_together/screens/signin_screen.dart';
+import 'package:aging_together/screens/signup_screen.dart';
 import 'package:aging_together/screens/splash_screen.dart';
+import 'package:aging_together/screens/students/intro.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -21,7 +24,7 @@ Future<void> main() async {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // This widget is the root of our application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -41,6 +44,9 @@ class MyApp extends StatelessWidget {
         'reminders': (context) => const RemindersPage(),
         'learn': (context) => const LearnPage(),
         'start': (context) => Start(),
+        'intro': (context) => intro(),
+        'role': (context) => const Roles(),
+        'signup': (context) => const SignUpScreen(),
       },
     );
   }
