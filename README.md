@@ -43,8 +43,9 @@ In addition to Firebase, the app also integrates with several APIs, including th
 Overall, the use of these technologies has enabled Aging Together to deliver a robust and reliable solution for seniors, helping them find the support and companionship they need.
 
 # Glimpses of Aging Together
-<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227031299-15aa315e-663f-45ed-8ce3-73739fdaff49.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" ><img src =  "https://user-images.githubusercontent.com/100767035/227031299-15aa315e-663f-45ed-8ce3-73739fdaff49.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227031334-9b7bcb13-5f4c-4d2f-a35e-81db83698382.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755682-274be9a4-f45e-4c70-8d2d-50a5e1073416.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
@@ -58,6 +59,10 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/227094637-f94b80c0-8aa8-400a-a1a3-e6ce22d4395b.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755688-fdfb4ff1-ac61-48d5-a5c3-682e08b35a1e.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/227755734-2782e4f5-b1d8-4f98-a3bc-df212db79fcb.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227755701-e8a8a9ec-5b47-4d78-98ba-ddf6b68c0fa8.png" width = "200" height = "400" >
+<img src =  "https://user-images.githubusercontent.com/100767035/227755810-b6a2d7a0-d9fd-454e-94db-737aa372d47a.png" width = "200" height = "400" >
 
 Figma Prototype of the students mentoring the old buddies: https://www.figma.com/proto/4BWGCSxGwIl6SQeiSMn5a4/Untitled?node-id=2-2&scaling=scale-down&page-id=0%3A1
 
