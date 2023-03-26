@@ -56,28 +56,12 @@ Overall, the use of these technologies has enabled Aging Together to deliver a r
 <img src =  "https://user-images.githubusercontent.com/100767035/227094607-a71cf791-1f19-4315-ab91-0f13f3ac1721.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227755978-0cc1897b-0a31-46af-98c2-428ddc4982a0.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227755987-c0dcd3c7-56b6-47fd-95a2-323a545d3899.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/227094623-612c7c8c-a0c2-491b-b8e3-6cd23022dcad.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/227094637-f94b80c0-8aa8-400a-a1a3-e6ce22d4395b.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992303-cea66a35-984a-43a2-b29d-022e4ef7066e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992322-659cb843-b197-40e6-87d1-df842d6753f1.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227755688-fdfb4ff1-ac61-48d5-a5c3-682e08b35a1e.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227755734-2782e4f5-b1d8-4f98-a3bc-df212db79fcb.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227755701-e8a8a9ec-5b47-4d78-98ba-ddf6b68c0fa8.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/227755810-b6a2d7a0-d9fd-454e-94db-737aa372d47a.png" width = "200" height = "400" >
-
-
-
-
-![Screenshot_1679805142](https://user-images.githubusercontent.com/100767035/227755981-94d5d165-6dad-4f9e-a815-24be7dd95d81.png)
-
-![Screenshot_1679805145](https://user-images.githubusercontent.com/100767035/227755989-99386761-2258-4053-802e-f3687791fd9f.png)
-
-
-
-
-
-
-
 
 # Marketing Strategy
 1. Targeted advertising: Advertise the app on social media platforms such as Facebook, Twitter, and Instagram, targeting users aged 60 and above, as well as their adult children who may be looking for support services for their parents. This can be done through targeted advertising campaigns that focus on the app's key features and benefits.
