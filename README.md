@@ -43,14 +43,13 @@ In addition to Firebase, the app also integrates with several APIs, including th
 Overall, the use of these technologies has enabled Aging Together to deliver a robust and reliable solution for seniors, helping them find the support and companionship they need.
 
 # Glimpses of Aging Together
-<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" ><img src =  "https://user-images.githubusercontent.com/100767035/227031299-15aa315e-663f-45ed-8ce3-73739fdaff49.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226991760-17984575-eaa4-49d0-b486-f97de9907ed0.png" width = "200" height = "400" > <img src =  "https://user-images.githubusercontent.com/100767035/227031299-15aa315e-663f-45ed-8ce3-73739fdaff49.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227031334-9b7bcb13-5f4c-4d2f-a35e-81db83698382.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227755682-274be9a4-f45e-4c70-8d2d-50a5e1073416.png" width = "200" height = "400" >
 <img src =  "https://user-images.githubusercontent.com/100767035/226991891-b3758371-85ac-43ad-a9ca-9a2fd70721ee.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227002746-d5108481-fd6c-4263-9149-9a9fdd8e9802.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992139-849b98f8-503a-471c-8df9-9589e4b7911a.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" > 
-<img src =  "https://user-images.githubusercontent.com/100767035/227094870-430414df-4dc5-47c0-92d0-3fc3ae7e444b.png" width = "200" height = "400" > 
+<img src =  "https://user-images.githubusercontent.com/100767035/226992246-76fb18df-d2aa-424a-a6f3-d8d99efdd911.png" width = "200" height = "400" >  
 <img src =  "https://user-images.githubusercontent.com/100767035/227095242-51dde96e-8606-4647-b7e7-c21977949c47.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/226992262-dc8cf36f-553e-4506-88f0-eca5d55a5dfc.png" width = "200" height = "400" > 
 <img src =  "https://user-images.githubusercontent.com/100767035/227033740-999b90f6-a922-4414-98a3-aba90a2ae970.png" width = "200" height = "400" > 
