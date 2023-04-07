@@ -170,6 +170,25 @@ class LearnPage extends StatelessWidget {
                 child: Column(
                   children: <Widget>[
                     Image.network(
+                      'https://media.istockphoto.com/id/1301201223/photo/a-woman-tailor-works-at-sewing-machine-sews-reuses-fabric-from-old-denim-clothes.jpg?b=1&s=170667a&w=0&k=20&c=twwfci3IXTt3zhKn5MaIP6kmEn7rQWAHzt3OU-8_UD0=',
+                      height: 150.0,
+                      width: 150.0,
+                      fit: BoxFit.cover,
+                    ),
+                    Padding(
+                      padding: EdgeInsets.all(10.0),
+                      child: Text(
+                        'SEWING \n Duration: 2 months \n Coach: Shivani Das',
+                        style: TextStyle(fontSize: 18.0),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Card(
+                child: Column(
+                  children: <Widget>[
+                    Image.network(
                       'https://images.unsplash.com/photo-1528712306091-ed0763094c98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29va2luZ3xlbnwwfHwwfHw%3D&w=1000&q=80',
                       height: 150.0,
                       width: 150.0,
