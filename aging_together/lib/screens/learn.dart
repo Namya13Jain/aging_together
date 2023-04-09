@@ -204,6 +204,25 @@ class LearnPage extends StatelessWidget {
                   ],
                 ),
               ),
+              Card(
+                child: Column(
+                  children: <Widget>[
+                    Image.network(
+                      'https://naadacademy.in/wp-content/uploads/2020/12/Harmonium-online-750x500-1.jpg',
+                      height: 150.0,
+                      width: 150.0,
+                      fit: BoxFit.cover,
+                    ),
+                    Padding(
+                      padding: EdgeInsets.all(10.0),
+                      child: Text(
+                        'Harmonium Playing \n Duration: 2 months \n Coach: Ankit Verma',
+                        style: TextStyle(fontSize: 18.0),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
             ],
           ),
         ),
