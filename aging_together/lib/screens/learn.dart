@@ -204,6 +204,44 @@ class LearnPage extends StatelessWidget {
                   ],
                 ),
               ),
+              Card(
+                child: Column(
+                  children: <Widget>[
+                    Image.network(
+                      'https://naadacademy.in/wp-content/uploads/2020/12/Harmonium-online-750x500-1.jpg',
+                      height: 150.0,
+                      width: 150.0,
+                      fit: BoxFit.cover,
+                    ),
+                    Padding(
+                      padding: EdgeInsets.all(10.0),
+                      child: Text(
+                        'Harmonium Playing \n Duration: 2 months \n Coach: Harleen Kaur',
+                        style: TextStyle(fontSize: 18.0),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Card(
+                child: Column(
+                  children: <Widget>[
+                    Image.network(
+                      'https://arjundixitphotography.files.wordpress.com/2021/10/adp_1011-1.jpg?w=1568',
+                      height: 150.0,
+                      width: 150.0,
+                      fit: BoxFit.cover,
+                    ),
+                    Padding(
+                      padding: EdgeInsets.all(10.0),
+                      child: Text(
+                        'Sitar Playing \n Duration: 3 months \n Coach: Nimrit Singh',
+                        style: TextStyle(fontSize: 18.0),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
             ],
           ),
         ),
