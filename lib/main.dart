@@ -10,20 +10,6 @@ import './screens/signin_screen.dart';
 import './screens/signup_screen.dart';
 import './screens/splash_screen.dart';
 import './screens/students/intro.dart';
-//import 'package:aging_together/lib/screens/about.dart';
-//import 'package:aging_together/lib/screens/caretaker_feature/caretaker.dart';
-//import 'package:aging_together/lib/screens/caretaker_feature/question.dart';
-//import 'package:aging_together/lib/screens/caretaker_feature/quiz.dart';
-//import 'package:aging_together/lib/screens/caretaker_feature/self_test.dart';
-//import 'package:aging_together/lib/screens/companion/start.dart';
-//import 'package:aging_together/lib/screens/home_screen.dart';
-//import 'package:aging_together/lib/screens/learn.dart';
-//import 'package:aging_together/lib/screens/reminders.dart';
-//import 'package:aging_together/lib/screens/select_role.dart';
-/* import 'package:aging_together/lib/screens/signin_screen.dart';
-import 'package:aging_together/lib/screens/signup_screen.dart';
-import 'package:aging_together/lib/screens/splash_screen.dart'; */
-//import 'package:aging_together/lib/screens/students/intro.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
