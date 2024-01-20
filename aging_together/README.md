@@ -3,10 +3,9 @@ Team Name: Team Aqua
 
 
 Team Members: 
-1. Astha Singh
-2. Namya Jain
-3. Nikita Bhutani
-4. Riya Agarwal
+1. Namya Jain
+2. Nikita Bhutani
+3. Riya Agarwal
 
 # Problem Statement
 In India, the share of elderly people is more than 10% of the population, and among them also one out of every four elder person is lonely. This is due to the erosion of our traditional values to stay with our old parents. Their children leave them to succeed in their lives, forgetting that their parents need their love, care and support. Due to these reasons, a lot of them suffer from depression and related disorders. Here are some news reports as well:
