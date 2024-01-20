@@ -5,7 +5,7 @@ Team Members:
 1. Namya Jain
 2. Nikita Bhutani
 3. Riya Agarwal
-4. Astha Singh
+
  
 
 # Problem Statement
