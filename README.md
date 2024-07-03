@@ -88,17 +88,11 @@ Some of our old buddies may not be as comfortable communicating in the English l
 Overall, the future scope for Aging Together is exciting, with the potential to further revolutionize the way we think about senior care and support. As technology continues to evolve, the app will undoubtedly continue to innovate and adapt, providing seniors with even more personalized and responsive services.
 
 # Awards
-![Screenshot 2024-07-03 204810]()
-![Screenshot 2024-07-03 205320]()
-
-
-![Screenshot 2024-07-03 205442]()
-
-
-
 
 
 <img src="https://github.com/Namya13Jain/aging_together/assets/100767035/9c603bb8-0397-4e9b-830e-bba83b36bb51" width=500 height=300>
+
 <img src="https://github.com/Namya13Jain/aging_together/assets/100767035/4510837f-ac41-49b5-89f0-9c79f5efe6f0" width=400 height=500>
+
 <img src="https://github.com/Namya13Jain/aging_together/assets/100767035/fc58e5dc-f225-4cd9-9cd1-9ae58c39bbdc" width=400 height=500>
 
